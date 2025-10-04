@@ -1,0 +1,5 @@
+{
+  "name": "NEWUPGRADE",
+  "description": "A web application that provides web analytics insights for any domain, powered by Gemini. It offers data on traffic, user engagement, demographics, and competitive analysis in a visually appealing dashboard.",
+  "requestFramePermissions": []
+}
